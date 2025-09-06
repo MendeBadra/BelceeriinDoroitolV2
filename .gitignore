@@ -1,0 +1,70 @@
+# Ignore folders
+Drone_Orthomosaics/
+GeoWithJulia/
+QGIS_workspaces/
+Results_Altum_October/
+Results_Altum_September/
+Results/
+processed_data*/
+testing
+deeplearning
+combine_all_patches
+RandomForests/
+PySegment
+shapefiles
+# Ignore Python cache files
+__pycache__/
+# ignore all .csv files in the data/ directory and any of its subdirectories
+data/**/*.csv
+# ignore all .csv files in the experiments/ directory and any of its subdirectories
+experiments/**/*.csv
+experiments/**/*.xlsx
+experiments/**/*.jpg
+experiments/reflectance_msavi_threshold/p4m/
+experiments/**/*.JPG
+# Ignore all .~ files
+.~*
+# Ignore .JPG files (case-sensitive)
+*.JPG
+*.TIF
+# Ignore AppleDouble files (._) that reference .JPG files
+._*.JPG
+
+# Ignore all CSV files
+*.csv
+veg_indices
+
+# Large data files
+*.json
+*.npy
+*.arrow
+*.parquet
+*.TIF
+*.tif
+
+# Images and plots
+*.svg
+*.png
+
+# Notebooks
+*.ipynb
+
+# Temporary files
+__pycache__/
+*.pyc
+*.log
+.DS_Store
+
+# Optional: Specific dirs with large files
+# combine_all_patches/
+# Visualization/
+
+# Some files 
+._*
+# Ignore some camera files
+*.bin
+*.MRK
+*.obs
+*.aux.xml
+*.xml
+

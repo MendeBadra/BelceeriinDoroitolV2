@@ -1,0 +1,14 @@
+Generated 1849 tasks.
+Running tasks with up to 10 workers...
+
+Sample of results:
+  drone_image_number  ... test_high_intensity_section_percentage
+0                001  ...                                69.2845
+1                002  ...                                58.1093
+2                003  ...                                46.6126
+3                004  ...                                37.0077
+4                005  ...                                38.3984
+
+[5 rows x 16 columns]
+
+Processing complete. Results saved to drone_data_output_plots_2025-05-14/processing_summary_results.csv

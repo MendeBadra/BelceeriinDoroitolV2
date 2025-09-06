@@ -1,0 +1,260 @@
+Processing tifs corresponding to: DJI_0010_msavi.tif
+DJI_0010
+worst
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0010_msavi.tif
+0.1994333333
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000006959), np.float64(0.2610017239811744), np.float64(0.4098493259280108)]
+Cluster 0 (center=-1.000) pixel coverage: 52.08 %
+Cluster 1 (center=0.410) pixel coverage: 17.33 %
+Cluster 2 (center=0.261) pixel coverage: 30.60 %
+Moran's I: 0.5949, p-value: 0.0010
+Identified weed cluster value: 0.4098
+Weed cluster coverage: 17.33% of total image area.
+Plot saved to: test/DJI_0010_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0020_msavi.tif
+DJI_0020
+worst
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0020_msavi.tif
+0.1994333333
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000000977), np.float64(0.3066761102313339), np.float64(0.4948611384813576)]
+Cluster 0 (center=0.495) pixel coverage: 31.38 %
+Cluster 1 (center=-1.000) pixel coverage: 18.06 %
+Cluster 2 (center=0.307) pixel coverage: 50.55 %
+Moran's I: 0.6482, p-value: 0.0010
+Identified weed cluster value: 0.4949
+Weed cluster coverage: 31.38% of total image area.
+Plot saved to: test/DJI_0020_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0030_msavi.tif
+DJI_0030
+bad
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0030_msavi.tif
+0.1701666667
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000007487), np.float64(0.3051112309460241), np.float64(0.5718647497660696)]
+Cluster 0 (center=0.572) pixel coverage: 35.09 %
+Cluster 1 (center=-1.000) pixel coverage: 20.11 %
+Cluster 2 (center=0.305) pixel coverage: 44.80 %
+Moran's I: 0.7350, p-value: 0.0010
+Identified weed cluster value: 0.5719
+Weed cluster coverage: 35.09% of total image area.
+Plot saved to: test/DJI_0030_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0040_msavi.tif
+DJI_0040
+best
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0040_msavi.tif
+0.3486
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000003133), np.float64(0.41849898183006295), np.float64(0.5507393563084417)]
+Cluster 0 (center=0.551) pixel coverage: 32.44 %
+Cluster 1 (center=-1.000) pixel coverage: 22.97 %
+Cluster 2 (center=0.418) pixel coverage: 44.59 %
+Moran's I: 0.6368, p-value: 0.0010
+Identified weed cluster value: 0.5507
+Weed cluster coverage: 32.44% of total image area.
+Plot saved to: test/DJI_0040_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0070_msavi.tif
+DJI_0070
+medium
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0070_msavi.tif
+0.1698666667
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999994227), np.float64(0.23044564097151893), np.float64(0.38090049894541494)]
+Cluster 0 (center=0.230) pixel coverage: 35.74 %
+Cluster 1 (center=-1.000) pixel coverage: 45.81 %
+Cluster 2 (center=0.381) pixel coverage: 18.45 %
+Moran's I: 0.6035, p-value: 0.0010
+Identified weed cluster value: 0.3809
+Weed cluster coverage: 18.45% of total image area.
+Plot saved to: test/DJI_0070_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0090_msavi.tif
+DJI_0090
+worst
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0090_msavi.tif
+0.1994333333
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999989827), np.float64(0.28372761384631523), np.float64(0.45852682758555013)]
+Cluster 0 (center=0.459) pixel coverage: 26.54 %
+Cluster 1 (center=-1.000) pixel coverage: 25.78 %
+Cluster 2 (center=0.284) pixel coverage: 47.69 %
+Moran's I: 0.6321, p-value: 0.0010
+Identified weed cluster value: 0.4585
+Weed cluster coverage: 26.54% of total image area.
+Plot saved to: test/DJI_0090_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0130_msavi.tif
+DJI_0130
+medium
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0130_msavi.tif
+0.1698666667
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000004716), np.float64(0.22336124659739415), np.float64(0.35457396541170144)]
+Cluster 0 (center=0.355) pixel coverage: 18.86 %
+Cluster 1 (center=-1.000) pixel coverage: 46.82 %
+Cluster 2 (center=0.223) pixel coverage: 34.32 %
+Moran's I: 0.5342, p-value: 0.0010
+Identified weed cluster value: 0.3546
+Weed cluster coverage: 18.86% of total image area.
+Plot saved to: test/DJI_0130_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0160_msavi.tif
+DJI_0160
+best
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0160_msavi.tif
+0.3486
+Cluster centers (sorted by intensity): [np.float64(-1.000000000000276), np.float64(0.4285160958496904), np.float64(0.5703447240920876)]
+Cluster 0 (center=-1.000) pixel coverage: 27.53 %
+Cluster 1 (center=0.429) pixel coverage: 44.16 %
+Cluster 2 (center=0.570) pixel coverage: 28.31 %
+Moran's I: 0.6508, p-value: 0.0010
+Identified weed cluster value: 0.5703
+Weed cluster coverage: 28.31% of total image area.
+Plot saved to: test/DJI_0160_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0190_msavi.tif
+DJI_0190
+good
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0190_msavi.tif
+0.233
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000000393), np.float64(0.31325176245682684), np.float64(0.46912129196359487)]
+Cluster 0 (center=0.313) pixel coverage: 44.84 %
+Cluster 1 (center=-1.000) pixel coverage: 26.77 %
+Cluster 2 (center=0.469) pixel coverage: 28.40 %
+Moran's I: 0.6305, p-value: 0.0010
+Identified weed cluster value: 0.4691
+Weed cluster coverage: 28.40% of total image area.
+Plot saved to: test/DJI_0190_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0200_msavi.tif
+DJI_0200
+good
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0200_msavi.tif
+0.233
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999992583), np.float64(0.309183253964636), np.float64(0.46190898056312624)]
+Cluster 0 (center=0.309) pixel coverage: 43.76 %
+Cluster 1 (center=-1.000) pixel coverage: 26.20 %
+Cluster 2 (center=0.462) pixel coverage: 30.03 %
+Moran's I: 0.6312, p-value: 0.0010
+Identified weed cluster value: 0.4619
+Weed cluster coverage: 30.03% of total image area.
+Plot saved to: test/DJI_0200_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0210_msavi.tif
+DJI_0210
+bad
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0210_msavi.tif
+0.1701666667
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999998452), np.float64(0.3031345649144632), np.float64(0.5399110526611954)]
+Cluster 0 (center=0.303) pixel coverage: 43.99 %
+Cluster 1 (center=-1.000) pixel coverage: 15.87 %
+Cluster 2 (center=0.540) pixel coverage: 40.14 %
+Moran's I: 0.6900, p-value: 0.0010
+Identified weed cluster value: 0.5399
+Weed cluster coverage: 40.14% of total image area.
+Plot saved to: test/DJI_0210_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0220_msavi.tif
+DJI_0220
+medium
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0220_msavi.tif
+0.1698666667
+Cluster centers (sorted by intensity): [np.float64(-1.000000000000389), np.float64(0.24739799431400183), np.float64(0.41410809687585687)]
+Cluster 0 (center=0.247) pixel coverage: 43.81 %
+Cluster 1 (center=-1.000) pixel coverage: 27.58 %
+Cluster 2 (center=0.414) pixel coverage: 28.62 %
+Moran's I: 0.6488, p-value: 0.0010
+Identified weed cluster value: 0.4141
+Weed cluster coverage: 28.62% of total image area.
+Plot saved to: test/DJI_0220_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0230_msavi.tif
+DJI_0230
+bad
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0230_msavi.tif
+0.1701666667
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999995226), np.float64(0.3284151866678192), np.float64(0.5534928988309361)]
+Cluster 0 (center=-1.000) pixel coverage: 15.81 %
+Cluster 1 (center=0.328) pixel coverage: 42.73 %
+Cluster 2 (center=0.553) pixel coverage: 41.46 %
+Moran's I: 0.6834, p-value: 0.0010
+Identified weed cluster value: 0.5535
+Weed cluster coverage: 41.46% of total image area.
+Plot saved to: test/DJI_0230_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0240_msavi.tif
+DJI_0240
+best
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0240_msavi.tif
+0.3486
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000006455), np.float64(0.4305733966526505), np.float64(0.5665526222904338)]
+Cluster 0 (center=0.431) pixel coverage: 46.12 %
+Cluster 1 (center=-1.000) pixel coverage: 19.33 %
+Cluster 2 (center=0.567) pixel coverage: 34.55 %
+Moran's I: 0.6295, p-value: 0.0010
+Identified weed cluster value: 0.5666
+Weed cluster coverage: 34.55% of total image area.
+Plot saved to: test/DJI_0240_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0260_msavi.tif
+DJI_0260
+bad
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0260_msavi.tif
+0.1701666667
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000011822), np.float64(0.3467652220071611), np.float64(0.6243095949982987)]
+Cluster 0 (center=0.347) pixel coverage: 49.52 %
+Cluster 1 (center=-1.000) pixel coverage: 14.88 %
+Cluster 2 (center=0.624) pixel coverage: 35.60 %
+Moran's I: 0.7552, p-value: 0.0010
+Identified weed cluster value: 0.6243
+Weed cluster coverage: 35.60% of total image area.
+Plot saved to: test/DJI_0260_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0280_msavi.tif
+DJI_0280
+medium
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0280_msavi.tif
+0.1698666667
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999990615), np.float64(0.22703143460937103), np.float64(0.36850136994878857)]
+Cluster 0 (center=0.227) pixel coverage: 35.51 %
+Cluster 1 (center=-1.000) pixel coverage: 45.60 %
+Cluster 2 (center=0.369) pixel coverage: 18.89 %
+Moran's I: 0.5714, p-value: 0.0010
+Identified weed cluster value: 0.3685
+Weed cluster coverage: 18.89% of total image area.
+Plot saved to: test/DJI_0280_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0300_msavi.tif
+DJI_0300
+bad
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0300_msavi.tif
+0.1701666667
+Cluster centers (sorted by intensity): [np.float64(-1.0000000000004572), np.float64(0.322747543193988), np.float64(0.5674351151443191)]
+Cluster 0 (center=0.567) pixel coverage: 38.92 %
+Cluster 1 (center=-1.000) pixel coverage: 13.03 %
+Cluster 2 (center=0.323) pixel coverage: 48.06 %
+Moran's I: 0.7290, p-value: 0.0010
+Identified weed cluster value: 0.5674
+Weed cluster coverage: 38.92% of total image area.
+Plot saved to: test/DJI_0300_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0330_msavi.tif
+DJI_0330
+best
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0330_msavi.tif
+0.3486
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999990191), np.float64(0.42267624496102574), np.float64(0.5584532337962871)]
+Cluster 0 (center=-1.000) pixel coverage: 28.08 %
+Cluster 1 (center=0.423) pixel coverage: 43.51 %
+Cluster 2 (center=0.558) pixel coverage: 28.41 %
+Moran's I: 0.6404, p-value: 0.0010
+Identified weed cluster value: 0.5585
+Weed cluster coverage: 28.41% of total image area.
+Plot saved to: test/DJI_0330_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0380_msavi.tif
+DJI_0380
+bad
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0380_msavi.tif
+0.1701666667
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999986547), np.float64(0.30620016487655827), np.float64(0.5602403898260999)]
+Cluster 0 (center=0.560) pixel coverage: 29.13 %
+Cluster 1 (center=-1.000) pixel coverage: 28.62 %
+Cluster 2 (center=0.306) pixel coverage: 42.24 %
+Moran's I: 0.7438, p-value: 0.0010
+Identified weed cluster value: 0.5602
+Weed cluster coverage: 29.13% of total image area.
+Plot saved to: test/DJI_0380_msavi_weed_cluster.png
+Processing tifs corresponding to: DJI_0540_msavi.tif
+DJI_0540
+bad
+Loaded MSAVI from: random_2025-05-20_cab_aligned/DJI_0540_msavi.tif
+0.1701666667
+Cluster centers (sorted by intensity): [np.float64(-0.9999999999999859), np.float64(0.3531065673749916), np.float64(0.6330174314323276)]
+Cluster 0 (center=0.633) pixel coverage: 43.83 %
+Cluster 1 (center=-1.000) pixel coverage: 7.85 %
+Cluster 2 (center=0.353) pixel coverage: 48.31 %
+Moran's I: 0.7506, p-value: 0.0010
+Identified weed cluster value: 0.6330
+Weed cluster coverage: 43.83% of total image area.
+Plot saved to: test/DJI_0540_msavi_weed_cluster.png

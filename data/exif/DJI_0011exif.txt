@@ -1,0 +1,213 @@
+ExifTool Version Number         : 12.89
+File Name                       : DJI_0011.TIF
+Directory                       : data/Best_10
+File Size                       : 4.2 MB
+File Modification Date/Time     : 2024:10:01 15:14:08+08:00
+File Access Date/Time           : 2025:03:21 16:14:58+08:00
+File Inode Change Date/Time     : 2025:03:21 16:09:58+08:00
+File Permissions                : -rwxr-xr-x
+File Type                       : TIFF
+File Type Extension             : tif
+MIME Type                       : image/tiff
+Exif Byte Order                 : Little-endian (Intel, II)
+Subfile Type                    : Full-resolution image
+Image Width                     : 1600
+Image Height                    : 1300
+Bits Per Sample                 : 16
+Compression                     : Uncompressed
+Photometric Interpretation      : BlackIsZero
+Image Description               : DCIM\100FPLAN\DJI_0011.TIF
+Camera Model Name               : FC6360
+Strip Offsets                   : 8
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 1
+Rows Per Strip                  : 1300
+Strip Byte Counts               : 4160000
+Software                        : v01.17.2029
+Modify Date                     : 2024:10:01 15:14:08
+About                           : DJI Meta Data
+Format                          : image/TIF
+Absolute Altitude               : +1274.78
+Relative Altitude               : +50.10
+Gimbal Roll Degree              : +0.00
+Gimbal Yaw Degree               : -163.00
+Gimbal Pitch Degree             : -89.90
+Flight Roll Degree              : +9.50
+Flight Yaw Degree               : -163.00
+Flight Pitch Degree             : -2.30
+Flight X Speed                  : +0.00
+Flight Y Speed                  : +0.00
+Flight Z Speed                  : +0.00
+Cam Reverse                     : 0
+Gimbal Reverse                  : 0
+Self Data                       : Undefined
+Calibrated Focal Length         : 1913.333374
+Calibrated Optical Center X     : 800.000000
+Calibrated Optical Center Y     : 650.000000
+Rtk Flag                        : 16
+Rtk Src Type                    : 0
+Rtk Std Lon                     : 1.04713
+Rtk Std Lat                     : 1.26554
+Rtk Std Hgt                     : 2.17093
+Relative Optical Center X       : 0.00000
+Relative Optical Center Y       : 0.00000
+Dewarp Flag                     : 0
+Dewarp Data                     : 2020-01-03;1951.9200439,1942.8399658,29.5339966,-1.9479980,-0.4080830,0.3306450,0.0007362,0.0007362,-0.3178250
+Dewarp H Matrix                 : 1.0030400,-0.0037199,12.3584995,0.0041004,0.9945680,-13.4696999,0.0000130,-0.0000100,1.0000000
+Vignetting Flag                 : 0
+Vignetting Data                 : 0.000218235, 1.20722e-6, -2.8676e-9, 5.1742e-12, -4.16853e-15, 1.36962e-18
+LS type                         : 1
+Package idx                     : 199
+Cfg cnt                         : 1
+Raw Data                        : 3895.000 5013.000 5585.000 5178.000 5781.000 3806.000 4105.000 4910.000 4970.000 5584.000 2416.000 1232.000 1100.000 2271.000 3245.000 3047.000 3844.000 3724.000
+Band Name                       : Blue
+Band Freq                       : 450(+/-16)nm
+Irradiance                      : 4131.894
+Sensor Gain                     : 2.750
+Sensor Gain Adjustment          : 2.047748
+Sensor Index                    : 1
+Capture UUID                    : 56789e6ad79b11ee84c9a33603a2bb02
+Drone ID                        : a33603a2bb02f616a2b58c1ce8bb078e
+Version                         : 7.0
+Has Settings                    : False
+Has Crop                        : False
+Already Applied                 : False
+Rig Name                        : FC6360
+Central Wavelength              : 450
+Wavelength FWHM                 : 16
+Model Type                      : perspective
+Principal Point                 : 2.488602,1.944156
+Perspective Focal Length        : 5.74
+Perspective Focal Length Units  : mm
+Perspective Distortion          : -0.408083, 0.330645, -0.317825, 0.000736, 0.000736
+Rig Camera Index                : 1
+Black Current                   : 4096
+Sun Sensor                      : 4131.894
+Sun Sensor Exposure Time        : 0.364
+Vignetting Polynomial           : 2.182350e-04, 1.207220e-06, -2.867600e-09, 5.174200e-12, -4.168530e-15, 1.369620e-18
+Vignetting Center               : 800.000000, 650.000000
+Is Normalized                   : 0
+Irradiance Exposure Time        : 0.364000
+Irradiance Gain                 : 16
+Irradiance Yaw                  : 0.000000
+Irradiance Pitch                : 0.000000
+Irradiance Roll                 : 0.000000
+Radiometric Calibration         : 2.047748, 0.000000, 0.000000
+Exposure Time                   : 1/321
+F Number                        : 2.2
+Exposure Program                : Program AE
+ISO Speed                       : 800
+Exif Version                    : 0230
+Date/Time Original              : 2024:10:01 15:14:07
+Create Date                     : 2024:10:01 15:14:07
+Shutter Speed Value             : 1
+Aperture Value                  : 2.2
+Exposure Compensation           : 0
+Max Aperture Value              : 2.2
+Metering Mode                   : Average
+Focal Length                    : 5.7 mm
+Make                            : DJI
+Speed X                         : +0.00
+Speed Y                         : +0.00
+Speed Z                         : +0.00
+Pitch                           : -2.30
+Yaw                             : -163.00
+Roll                            : +9.50
+Camera Pitch                    : -89.90
+Camera Yaw                      : -163.00
+Camera Roll                     : +0.00
+Exif Image Width                : 1600
+Exif Image Height               : 1300
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+Focal Length In 35mm Format     : 40 mm
+Serial Number                   : a33603a2bb02f616a2b58c1ce8bb078e
+GPS Version ID                  : 2.3.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : East
+GPS Altitude Ref                : Above Sea Level
+Black Level Repeat Dim          : 1 1
+Black Level                     : 4096
+Aperture                        : 2.2
+Image Size                      : 1600x1300
+Megapixels                      : 2.1
+Scale Factor To 35 mm Equivalent: 7.0
+Shutter Speed                   : 1/321
+GPS Altitude                    : 1274.7 m Above Sea Level
+GPS Latitude                    : 47 deg 38' 55.19" N
+GPS Longitude                   : 105 deg 57' 30.62" E
+Circle Of Confusion             : 0.004 mm
+Field Of View                   : 48.5 deg
+Focal Length                    : 5.7 mm (35 mm equivalent: 40.0 mm)
+GPS Position                    : 47 deg 38' 55.19" N, 105 deg 57' 30.62" E
+Hyperfocal Distance             : 3.47 m
+
+
+About                           : DJI Meta Data
+Format                          : image/TIF
+Absolute Altitude               : +1274.78
+Relative Altitude               : +50.10
+Gimbal Roll Degree              : +0.00
+Gimbal Yaw Degree               : -163.00
+Gimbal Pitch Degree             : -89.90
+Flight Roll Degree              : +9.50
+Flight Yaw Degree               : -163.00
+Flight Pitch Degree             : -2.30
+Flight X Speed                  : +0.00
+Flight Y Speed                  : +0.00
+Flight Z Speed                  : +0.00
+Cam Reverse                     : 0
+Gimbal Reverse                  : 0
+Self Data                       : Undefined
+Calibrated Focal Length         : 1913.333374
+Calibrated Optical Center X     : 800.000000
+Calibrated Optical Center Y     : 650.000000
+Rtk Flag                        : 16
+Rtk Src Type                    : 0
+Rtk Std Lon                     : 1.04713
+Rtk Std Lat                     : 1.26554
+Rtk Std Hgt                     : 2.17093
+Relative Optical Center X       : 0.00000
+Relative Optical Center Y       : 0.00000
+Dewarp Flag                     : 0
+Dewarp Data                     : 2020-01-03;1951.9200439,1942.8399658,29.5339966,-1.9479980,-0.4080830,0.3306450,0.0007362,0.0007362,-0.3178250
+Dewarp H Matrix                 : 1.0030400,-0.0037199,12.3584995,0.0041004,0.9945680,-13.4696999,0.0000130,-0.0000100,1.0000000
+Vignetting Flag                 : 0
+Vignetting Data                 : 0.000218235, 1.20722e-6, -2.8676e-9, 5.1742e-12, -4.16853e-15, 1.36962e-18
+LS type                         : 1
+Package idx                     : 199
+Cfg cnt                         : 1
+Raw Data                        : 3895.000 5013.000 5585.000 5178.000 5781.000 3806.000 4105.000 4910.000 4970.000 5584.000 2416.000 1232.000 1100.000 2271.000 3245.000 3047.000 3844.000 3724.000
+Band Name                       : Blue
+Band Freq                       : 450(+/-16)nm
+Irradiance                      : 4131.894
+Sensor Gain                     : 2.750
+Sensor Gain Adjustment          : 2.047748
+Sensor Index                    : 1
+Capture UUID                    : 56789e6ad79b11ee84c9a33603a2bb02
+Drone ID                        : a33603a2bb02f616a2b58c1ce8bb078e
+Version                         : 7.0
+Has Settings                    : False
+Has Crop                        : False
+Already Applied                 : False
+Rig Name                        : FC6360
+Central Wavelength              : 450
+Wavelength FWHM                 : 16
+Model Type                      : perspective
+Principal Point                 : 2.488602,1.944156
+Perspective Focal Length        : 5.74
+Perspective Focal Length Units  : mm
+Perspective Distortion          : -0.408083, 0.330645, -0.317825, 0.000736, 0.000736
+Rig Camera Index                : 1
+Black Current                   : 4096
+Sun Sensor                      : 4131.894
+Sun Sensor Exposure Time        : 0.364
+Vignetting Polynomial           : 2.182350e-04, 1.207220e-06, -2.867600e-09, 5.174200e-12, -4.168530e-15, 1.369620e-18
+Vignetting Center               : 800.000000, 650.000000
+Is Normalized                   : 0
+Irradiance Exposure Time        : 0.364000
+Irradiance Gain                 : 16
+Irradiance Yaw                  : 0.000000
+Irradiance Pitch                : 0.000000
+Irradiance Roll                 : 0.000000
+Radiometric Calibration         : 2.047748, 0.000000, 0.000000

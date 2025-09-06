@@ -1,0 +1,1 @@
+Abandoned. Was trying to replicate the micasense library for Drone image alignment with no hassle.

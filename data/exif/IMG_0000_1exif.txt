@@ -1,0 +1,166 @@
+ExifTool Version Number         : 12.89
+File Name                       : IMG_0000_1.tif
+Directory                       : data/ALTUM
+File Size                       : 6.4 MB
+File Modification Date/Time     : 2025:03:27 12:25:13+08:00
+File Access Date/Time           : 2025:03:27 14:04:16+08:00
+File Inode Change Date/Time     : 2025:03:27 12:25:13+08:00
+File Permissions                : -rwxr-xr-x
+File Type                       : TIFF
+File Type Extension             : tif
+MIME Type                       : image/tiff
+Exif Byte Order                 : Little-endian (Intel, II)
+Subfile Type                    : Full-resolution image
+Image Width                     : 2064
+Image Height                    : 1544
+Bits Per Sample                 : 16
+Compression                     : Uncompressed
+Photometric Interpretation      : BlackIsZero
+Make                            : MicaSense
+Camera Model Name               : Altum
+Strip Offsets                   : (Binary data 119 bytes, use -b option to extract)
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 1
+Rows Per Strip                  : 100
+Strip Byte Counts               : (Binary data 111 bytes, use -b option to extract)
+Planar Configuration            : Chunky
+Software                        : v2.5.0-beta6
+Modify Date                     : 2022:04:06 20:00:32
+XMP Toolkit                     : XMP Core 4.4.0
+About                           : Pix4D Camera Information
+Rig Name                        : Altum
+Band Name                       : Blue
+Central Wavelength              : 475
+Wavelength FWHM                 : 20
+Model Type                      : perspective
+Principal Point                 : 3.55605,2.61927
+Perspective Focal Length        : 7.8163874474999995
+Perspective Focal Length Units  : mm
+Perspective Distortion          : -0.1229523, 0.23449700000000001, -0.1624159, 1.695486e-05, -0.00045608690000000001
+Vignetting Center               : 1040.5344, 769.24689999999998
+Vignetting Polynomial           : 9.9999990000000002e-07, -2.7166090000000002e-07, 2.9244110000000001e-10, -1.376155e-12, 1.355959e-15, -3.9100259999999994e-19
+Band Sensitivity                : 0.084055964010378181
+Rig Relatives                   : -0.022785, 0.117982, 0.090496
+Albedo                          : 0.488375
+Reflect Area                    : 1199,676,1191,798,1315,804,1323,682
+Calibration Picture             : 2
+Rig Camera Index                : 0
+Rig Relatives Reference Rig Camera Index: 1
+GPSXY Accuracy                  : 0
+GPSZ Accuracy                   : 0.62699997425079346
+Irradiance                      : 94.683992970483573
+Irradiance Yaw                  : -111.39649853861305
+Irradiance Pitch                : -6.246958356503054
+Irradiance Roll                 : 3.0976557189297624
+Boot Timestamp                  : 113
+Radiometric Calibration         : 0.00018721760000000001, 9.8731340000000002e-10, 3.3079140000000003e-05
+Imager Temperature C            : 29.559999999999999
+Flight Id                       : jfCG6qSK0t7CDUvnJiOO
+Capture Id                      : CoDN4adNch7KFnclyi5t
+Trigger Method                  : 0
+Panel Serial                    : RP06-2051037-OB
+Pressure Alt                    : 0
+Dark Row Value                  : 3846, 3846, 3846, 3846
+Serial                          : DA04-2020101-MS
+Sw Version                      : v1.3.0
+Center Wavelength               : 475
+Bandwidth                       : 20
+Time Stamp                      : 129609
+Spectral Irradiance             : 94.683992970483573
+Horizontal Irradiance           : 91.086121983013555
+Direct Irradiance               : 79.21370277143977
+Scattered Irradiance            : 31.369408680259927
+Solar Elevation                 : 0.85392855907052112
+Solar Azimuth                   : 3.073135765887514
+Estimated Direct Light Vector   : 0.040735174095245789, -0.61688391667667375, -0.78599928685532328
+Yaw                             : -1.9442356746918494
+Pitch                           : -0.10902999155595201
+Roll                            : 0.054064291388556389
+Exposure Time                   : 1/2360
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO Speed                       : 100
+Exif Version                    : 0230
+Date/Time Original              : 2022:04:06 20:00:32
+Create Date                     : 2022:04:06 20:00:32
+Metering Mode                   : Multi-spot
+Focal Length                    : 8.0 mm
+Sub Sec Time                    : 754172270
+Focal Plane X Resolution        : 289.855072
+Focal Plane Y Resolution        : 289.855072
+Focal Plane Resolution Unit     : mm
+Serial Number                   : AL03-1832005-SC
+GPS Version ID                  : 2.2.0.0
+GPS Latitude Ref                : North
+GPS Longitude Ref               : West
+GPS Altitude Ref                : Below Sea Level
+GPS Dilution Of Precision       : 0
+Black Level Repeat Dim          : 2 2
+Black Level                     : 4800 4800 4800 4800
+Opcode List 3                   : [opcode 48739], [opcode 41327]
+Aperture                        : 1.8
+Image Size                      : 2064x1544
+Megapixels                      : 3.2
+Scale Factor To 35 mm Equivalent: 4.9
+Shutter Speed                   : 1/2360
+Modify Date                     : 2022:04:06 20:00:32.754172270
+GPS Altitude                    : 8.4 m Below Sea Level
+GPS Latitude                    : 47 deg 42' 13.10" N
+GPS Longitude                   : 122 deg 8' 29.12" W
+Circle Of Confusion             : 0.006 mm
+Field Of View                   : 49.6 deg
+Focal Length                    : 8.0 mm (35 mm equivalent: 38.9 mm)
+GPS Position                    : 47 deg 42' 13.10" N, 122 deg 8' 29.12" W
+Hyperfocal Distance             : 5.76 m
+
+
+XMP Toolkit                     : XMP Core 4.4.0
+About                           : Pix4D Camera Information
+Rig Name                        : Altum
+Band Name                       : Blue
+Central Wavelength              : 475
+Wavelength FWHM                 : 32
+Model Type                      : perspective
+Principal Point                 : 3.53681,2.72172
+Perspective Focal Length        : 7.7630090475000006
+Perspective Focal Length Units  : mm
+Perspective Distortion          : -0.13088929999999999, 0.27582689999999999, -0.24362130000000001, 0.00047424510000000002, 4.3222239999999997e-05
+Vignetting Center               : 1046.2414000000001, 770.56949999999995
+Vignetting Polynomial           : 9.9999999999999995e-07, -1.1849430000000001e-07, -1.247233e-09, 1.479856e-12, -6.0169720000000001e-16, 6.8604009999999995e-20
+Band Sensitivity                : 0.10997149409469266
+Rig Relatives                   : -0.022035, -0.044218, 0.001885
+Albedo                          : 0.53987499999999999
+Reflect Area                    : 1031,671,1031,567,931,571,931,675
+Calibration Picture             : 2
+Rig Camera Index                : 0
+Rig Relatives Reference Rig Camera Index: 1
+GPSXY Accuracy                  : 0.86699998378753662
+GPSZ Accuracy                   : 1.0900000333786011
+Irradiance                      : 60.493940328147495
+Irradiance Yaw                  : -152.72489205871662
+Irradiance Pitch                : -0.31004019951946221
+Irradiance Roll                 : 1.2588314625527752
+Boot Timestamp                  : 139
+Radiometric Calibration         : 0.00014309850000000001, 4.5009640000000002e-09, 9.6594419999999993e-06
+Imager Temperature C            : 18.620000000000001
+Flight Id                       : L3CqOMduJdgvd4vZ5jYd
+Capture Id                      : q4XdFtvJzZCaZ35TyBs0
+Trigger Method                  : 0
+Panel Serial                    : RP05-2025249-OB
+Pressure Alt                    : 0
+Dark Row Value                  : 3831, 3831, 3831, 3831
+Serial                          : DA04-2020321-MS
+Sw Version                      : v1.3.0
+Center Wavelength               : 475
+Bandwidth                       : 32
+Time Stamp                      : 155695
+Spectral Irradiance             : 60.493940328147495
+Horizontal Irradiance           : 54.074162504547367
+Direct Irradiance               : 112.39317338344028
+Scattered Irradiance            : 3.6794686271518238
+Solar Elevation                 : 0.46495055008246333
+Solar Azimuth                   : 4.0066930782563981
+Estimated Direct Light Vector   : 0.73025925998340135, 0.42259252230697031, -0.53678391676607429
+Yaw                             : -2.665552216177546
+Pitch                           : -0.0054112222951547568
+Roll                            : 0.02197075374924163
