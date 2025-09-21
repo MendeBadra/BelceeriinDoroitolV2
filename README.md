@@ -53,6 +53,7 @@ python cli_segmentation.py \
 
 * [Batnyambuu Dashpurev, Lukas Lehnert et al. – *A cost-effective method for monitoring land degradation*](https://www.sciencedirect.com/science/article/pii/S1470160X21009961)
 * [E. Celikkan et al. – *WeedsGalore Dataset*](https://arxiv.org/abs/2502.13103)
+* Presentation [slides](https://docs.google.com/presentation/d/1BvcVU_O69c-oM05ckK0No2ZJ_5Wgpw5ufpk8lP6x6ao/edit?usp=sharing) at First NUM-Yonsei University joint student conference
 
 ---
 
