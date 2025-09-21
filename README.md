@@ -22,4 +22,4 @@ Results are `Plots` folder and also Results with Drone classification.
 
 ## Papers which I'm reading related to this project:
  - [Batnyambuu Dashpurev, Lukas Lehnert et al. A cost effective method](https://www.sciencedirect.com/science/article/pii/S1470160X21009961)
- - 
+ - [E.Celikkan et al. WeedsGalore dataset](https://arxiv.org/abs/2502.13103)
